@@ -1,0 +1,32 @@
+.imageThumbContainer {
+	
+}
+
+.imageThumbLink {
+	padding: 10px;
+}
+
+.imageThumbImg {
+	border-radius: 2px;
+	border-width: 5px;
+	border-style:solid;
+	border-color:black;
+	/*
+	width:200px;
+	height: 150px;
+	*/
+	margin-bottom: 10px;
+}
+
+
+.dirThumbContainer {
+	
+}
+
+.dirThumbLink {
+	cursor:pointer;
+}
+.dirThumbImg {
+	cursor:pointer;
+	width:50px;
+}
